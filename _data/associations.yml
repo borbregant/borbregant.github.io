@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
+- organization: Škofijska klasična gimnazija
+  role: Mathematics teacher
+  year: 2023 &mdash; 2024
   url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+  summary: Teaching on general high school program
 
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
+- organization: Inštitut Jožefa Štefana
+  role: Programmer
+  year: 2022 &mdash; 2023
   url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+  summary: Programming machine learning in Python
